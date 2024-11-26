@@ -1,8 +1,9 @@
 <h1 align = "center" >"&nbsp;&nbsp;&nbsp;<u>Markdown</u>&nbsp;&nbsp;&nbsp;"</h1>
 
-
-<img src="https://i.imgflip.com/9bnw7r.jpg" width=auto height="400" style="display: block; margin: auto; width: 200px;">
-
+<p align = "center">
+<img src="https://i.imgflip.com/9bnw7r.jpg" width="250" height="420">
+</p>
+ 
 ## What is Markdown ?
 
 So the Markdown is a language to simplify your way to write your notes, Documents, your Readme file ... 
