@@ -15,7 +15,5 @@ Check the [official website](https://www.markdownguide.org/getting-started/) so 
 ## <u>Let's start !</u>
 
 ### Simple paragraph : 
-```
-Add nothing to your text just start writing, but for the **new line** you need to create a space between the first paragraph and the second.
-```
 
+Add nothing to your text just start writing, but for the **new line** you need to create a space between the first paragraph and the second.
