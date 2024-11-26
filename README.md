@@ -12,4 +12,8 @@ Am **HERE** to give you all the shortcuts that you gonna need not **wasting** yo
 
 Check the [official website](https://www.markdownguide.org/getting-started/) so that you can get informations about Markdown and how it works and some stuff like that. 
 
-## Let's start !
+# <span style = "color: #e5b022"><u>Let's start !</u></span>
+
+## Simple paragraph : 
+
+Add nothing to your text just start writing, but for the new line you need to create a space between the first paragraph and the second.
