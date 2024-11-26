@@ -1,6 +1,8 @@
 <h1 align = "center" >"&nbsp;&nbsp;&nbsp;<u>Markdown</u>&nbsp;&nbsp;&nbsp;"</h1>
 
-![](https://imgflip.com/i/9bnw7r)
+
+<img src="https://i.imgflip.com/9bnw7r.jpg" width=auto height="400" style="display: block; margin: auto; width: 200px;">
+
 ## What is Markdown ?
 
 So the Markdown is a language to simplify your way to write your notes, Documents, your Readme file ... 
