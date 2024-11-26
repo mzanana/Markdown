@@ -20,11 +20,9 @@ Check the [official website](https://www.markdownguide.org/getting-started/) so 
 
 # <u>Let's start !</u>
 ### 1 - Simple paragraph : 
+
 Add nothing to your text just start writing, but for the **new line** you need to create a space between the first paragraph and the second.
-
-![image](Images/First.png)
-
-So even if you press the `enter`  keyboard button, it will not make the new line unless you separate the lines or the paragraphs with an empty line.
+![fv](https://i.ibb.co/kmXFwZ6/image.png)
 
 ### 2 - 
 ## Resources :
