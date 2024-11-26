@@ -1,5 +1,6 @@
 <h1 align = "center" >"&nbsp;&nbsp;&nbsp;<u>Markdown</u>&nbsp;&nbsp;&nbsp;"</h1>
 
+![](https://imgflip.com/i/9bnw7r)
 ## What is Markdown ?
 
 So the Markdown is a language to simplify your way to write your notes, Documents, your Readme file ... 
@@ -21,7 +22,7 @@ Add nothing to your text just start writing, but for the **new line** you need t
 
 ## Resources :
 #### Thoes are the resources of this article :
-- [Youtube : Markdown Crash course](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=60s&ab_channel=WebDevSimplified)
+- [Youtube : Markdown Crash course](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=60s&ab_channel=WebDevSimplified)  
 
 - [Youtube : Markdown in Obsidian](https://www.youtube.com/watch?v=d8fXEhWy_rY&ab_channel=FromSergio)
 
