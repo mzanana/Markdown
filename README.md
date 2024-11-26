@@ -1,5 +1,3 @@
-<div align = center>
-    <h1>Markdown<h1>
-</div>
+<h1 align = center> Markdown <h1>
 
 ## Why Using Markdown ?
