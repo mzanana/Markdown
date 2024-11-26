@@ -1,3 +1,3 @@
 # Markdown
-## Markdown
-Test of the markdown header
+## This is the full guide of the usage of Markdown
+
