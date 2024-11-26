@@ -17,3 +17,13 @@ Check the [official website](https://www.markdownguide.org/getting-started/) so 
 ### Simple paragraph : 
 
 Add nothing to your text just start writing, but for the **new line** you need to create a space between the first paragraph and the second.
+
+
+## Resources :
+#### Thoes are the resources of this article :
+- [Youtube : Markdown Crash course](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=60s&ab_channel=WebDevSimplified)
+
+- [Youtube : Markdown in Obsidian](https://www.youtube.com/watch?v=d8fXEhWy_rY&ab_channel=FromSergio)
+
+- [Youtube : Obsidoan for tech docs](https://www.youtube.com/watch?v=cBzc5r-FNW0&ab_channel=ChristianLempa)
+
