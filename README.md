@@ -16,7 +16,7 @@ Am **HERE** to give you all the shortcuts that you gonna need not **wasting** yo
 
 Check the [official website](https://www.markdownguide.org/getting-started/) so that you can get informations about Markdown and how it works and some stuff like that. 
 
-## <u>Let's start !</u>
+## <span style = "color : orange;"><u>Let's start !</u></span>
 
 ### Simple paragraph : 
 
