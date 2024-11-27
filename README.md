@@ -29,10 +29,7 @@ Add nothing to your text just start writing, but for the **new line** you need t
 Also there is another way by adding two spaces after the first paragraph.
 
 ![two spaces](https://i.ibb.co/PgSPPV0/Untitled-design.png)
-
-
-
-
+<br><br>
 
 ### 2 - Headings
 
@@ -41,10 +38,7 @@ The max of the header size is like the html header, if you pass over six hashtag
 
 ![Heading](https://i.ibb.co/2cDNyrF/image.png)
 
-
-
-
-
+<br><br>
 ### 3- **Bold**, *Italic* and ~~Strikethrough~~ Effect
 
 
@@ -66,10 +60,7 @@ For the Strickthrough effect just use two `~` character : `~~Jesse~~` ---> ~~Jes
 
 ![Text Effects](https://i.ibb.co/RcjtFjk/image.png)
 
-
-
-
-
+<br><br>
 ### 4 - Code blocks 
 
 For implementing a code area to your notes and you have just one line, word or even character, you just need to put it inside one ``` ` ``` Character, so that ``` `Walter` ``` --->
@@ -108,7 +99,7 @@ the result Text gonna be :
 ```
 
 
-
+<br><br>
 
 ### 5 - Links / Images :
 
@@ -131,11 +122,7 @@ The result is what you see here :
 <p align = "center">
 	<img src = "https://i.ibb.co/By5n51K/image.png" width = "200">
 </p>
-
-
-
-
-
+<br><br>
 ### 6 - Blockquotes
 
 I think you notice some paragraphs on this article having some special color and background, like this message :  
