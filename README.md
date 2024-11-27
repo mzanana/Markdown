@@ -153,8 +153,29 @@ So :
 ![Horizontal lines](https://i.ibb.co/RjDTyv4/image.png)
 
 <br>
-## 8 - Lists :
 
+## 8 - Lists 
+
+1. Ordered List   
+
+The important is just the number followed by a dot and a space, its not matter that you number the list by the order 1, 2, 3...  
+
+![Ordered List](https://i.ibb.co/235PhST/image.png)
+
+
+2. Unordered List   
+You gonna replace the numbers with one of those  characters (They do the same thing !)
+`*`, `-` or `+`   
+
+![Unordered List](https://i.ibb.co/yYB7D6d/image.png)
+
+
+3. Nested List  
+Use a `Tab` key or four `Spaces` to make a nested list  
+
+![Nested List](https://i.ibb.co/pPtX0vR/image.png)
+
+<br>
 
 
 ## Resources :
