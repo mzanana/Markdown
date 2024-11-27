@@ -31,12 +31,18 @@ Also there is another way by adding two spaces after the first paragraph.
 ![two spaces](https://i.ibb.co/PgSPPV0/Untitled-design.png)
 
 
+
+
+
 ### 2 - Headings
 
 Using the ' # ' character, and whenever you use less hashtags the header gonna be bigger.
 The max of the header size is like the html header, if you pass over six hashtags the Markdown read it as a normal text.
 
 ![Heading](https://i.ibb.co/2cDNyrF/image.png)
+
+
+
 
 
 ### 3- **Bold**, *Italic* and ~~Strikethrough~~ Effect
@@ -59,6 +65,9 @@ That's easy my friend! use that brain and find the solution by yourself am belie
 For the Strickthrough effect just use two `~` character : `~~Jesse~~` ---> ~~Jesse~~
 
 ![Text Effects](https://i.ibb.co/RcjtFjk/image.png)
+
+
+
 
 
 ### 4 - Code blocks 
@@ -98,6 +107,9 @@ the result Text gonna be :
 <a href = "https://github.com/Zanana-med/">Welcome to my github</a>
 ```
 
+
+
+
 ### 5 - Links / Images :
 
 To use a clickable link or to display an image on your notes shared the same syntax, for the image you gonna need to add  `!` at the beginning of the syntax.  
@@ -119,6 +131,9 @@ The result is what you see here :
 <p align = "center">
 	<img src = "https://i.ibb.co/By5n51K/image.png" width = "200">
 </p>
+
+
+
 
 
 ### 6 - Blockquotes
