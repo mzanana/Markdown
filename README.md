@@ -31,6 +31,14 @@ Also there is another way by adding two spaces after the first paragraph.
 ![two spaces](https://i.ibb.co/PgSPPV0/Untitled-design.png)
 
 
+### 2 - Headings
+
+Using the ' # ' character, and whenever you use less hashtags the header gonna be bigger.
+The max of the header size is like the html header, if you pass over six hashtags the Markdown read it as a normal text.
+
+![Heading](https://i.ibb.co/2cDNyrF/image.png)
+
+
 ## Resources :
 #### Those are the resources of this article :
 
