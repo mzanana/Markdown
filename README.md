@@ -177,6 +177,36 @@ Use a `Tab` key or four `Spaces` to make a nested list
 
 <br>
 
+## 9 - Tables
+
+Yes DO YOU BELIEVE IT !   
+With just three characters you can make a table.  
+Just using those three magical characters  `|` , `-`  and `:` you can create a table, and this picture explain to you exactly how you can do it !    
+
+Just separate the title from the content by three `-` at least    
+
+![Structured Table](https://i.ibb.co/YZtdt5n/image.png)
+
+
+Never mind i got you! Not everytime the content gonna be structured and little like the example above!    
+Markdown automatically  gonna fix the issue   
+
+![unstructured table](https://i.ibb.co/71GWp8g/image.png)
+
+
+And also you don't wanna the text to be on the left ?  
+We got you !   
+It is the time for our third magical character now  `:`  
+
+place the `:` where do you want the content to be. And yes you find the solution now   
+
+![Right, Center and Left the content of the table](https://i.ibb.co/bg4MDqR/image.png) 
+
+<br>
+
+## 10 - CheckLists 
+
+	
 
 ## Resources :
 #### Those are the resources of this article :
