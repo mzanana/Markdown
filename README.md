@@ -98,6 +98,41 @@ the result Text gonna be :
 <a href = "https://github.com/Zanana-med/">Welcome to my github</a>
 ```
 
+### 5 - Links / Images :
+
+To use a clickable link or to display an image on your notes shared the same syntax, for the image you gonna need to add  `!` at the beginning of the syntax.  
+
+- **Links :**
+The syntax is : `[]()` So inside the square brackets you put the message that gonna display to you, and inside the parentheses you write the `url` of the link you want to use .  
+For example : `[Check my Profile](https://github.com/Zanana-med)`  
+gonna used as  : [Check my Profile](https://github.com/Zanana-med)    
+
+- **Images** :
+The same thing as Links you just add a `!` on the beginning of the syntax.  
+`![The message displayed when the picture failed loading](The link of the picture you wanna use)`  
+For example :   
+```
+![Linux King](https://i.ibb.co/By5n51K/image.png)
+```
+
+The result is what you see here :  
+<p align = "center">
+	<img src = "https://i.ibb.co/By5n51K/image.png" width = "200">
+</p>
+
+
+### 6 - Blockquotes
+
+I think you notice some paragraphs on this article having some special color and background, like this message :  
+>Note That ...
+
+So to use like this style you need just to start your paragraph with a ` > `
+
+ Like that : ` >Note That ...`   
+ So the result is the message :  
+ >Note That ...  
+
+
 
 ## Resources :
 #### Those are the resources of this article :
@@ -108,3 +143,4 @@ the result Text gonna be :
 
 - [YouTube : Obsidian for tech docs](https://www.youtube.com/watch?v=cBzc5r-FNW0&ab_channel=ChristianLempa)
 
+||vsav||
