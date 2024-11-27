@@ -61,6 +61,43 @@ For the Strickthrough effect just use two `~` character : `~~Jesse~~` ---> ~~Jes
 ![Text Effects](https://i.ibb.co/RcjtFjk/image.png)
 
 
+### 4 - Code blocks 
+
+For implementing a code area to your notes and you have just one line, word or even character, you just need to put it inside one ``` ` ``` Character, so that ``` `Walter` ``` --->
+`Walter`
+
+If you have a long code, use three ` ``` ` characters, so that for example :
+
+- instead of writing the boring way :  
+
+\#include<unistd.h>
+int main()
+{
+	write (1, "42", 2);
+}  
+
+- you can just use the Markdown code block:   
+```c
+#include <unistd.h>
+int main()
+{
+	write(1, "42", 2);
+}
+```  
+
+And a beautiful thing that you can have some decoration of the exact language you use.  
+You just need to add the language  name beside the three ``` ` ``` :  
+```
+	```html
+		<a href = "https://github.com/Zanana-med/">Welcome to my github</a>
+	```
+```  
+
+the result Text gonna be :
+```html
+<a href = "https://github.com/Zanana-med/">Welcome to my github</a>
+```
+
 
 ## Resources :
 #### Those are the resources of this article :
