@@ -39,6 +39,29 @@ The max of the header size is like the html header, if you pass over six hashtag
 ![Heading](https://i.ibb.co/2cDNyrF/image.png)
 
 
+### 3- **Bold**, *Italic* and ~~Strikethrough~~ Effect
+
+
+>Note that on this part you can replace the \* Character with the  \_  character and everything work fine.
+
+ 1. ***Italic*** :
+To make your part of text Italic you just need to put it between one asterisk character `*YOUR TEXT*` ---> *YOUR TEXT*
+
+ 2. **Bold** :
+  And for the **Bold** effect just write it between two asterisk character `**YOUR TEXT**`  ---> **YOUR TEXT**
+
+>Tip : Before you continue reading the next paragraph you now that 1 + 2 = 3 do you hh??
+
+So what if i wanna use a text ***Bold & Italic*** at the same time ?
+That's easy my friend! use that brain and find the solution by yourself am believing in you . 
+
+3. **Strikethrough** :
+For the Strickthrough effect just use two `~` character : `~~Jesse~~` ---> ~~Jesse~~
+
+![Text Effects](https://i.ibb.co/RcjtFjk/image.png)
+
+
+
 ## Resources :
 #### Those are the resources of this article :
 
