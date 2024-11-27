@@ -31,6 +31,7 @@ Also there is another way by adding two spaces after the first paragraph.
 ![two spaces](https://i.ibb.co/PgSPPV0/Untitled-design.png)
 
 <br>
+
 ### 2 - Headings
 
 Using the ' # ' character, and whenever you use less hashtags the header gonna be bigger.
@@ -39,6 +40,7 @@ The max of the header size is like the html header, if you pass over six hashtag
 ![Heading](https://i.ibb.co/2cDNyrF/image.png)
 
 <br>
+
 ### 3- **Bold**, *Italic* and ~~Strikethrough~~ Effect
 
 
@@ -61,6 +63,7 @@ For the Strickthrough effect just use two `~` character : `~~Jesse~~` ---> ~~Jes
 ![Text Effects](https://i.ibb.co/RcjtFjk/image.png)
 
 <br>
+
 ### 4 - Code blocks 
 
 For implementing a code area to your notes and you have just one line, word or even character, you just need to put it inside one ``` ` ``` Character, so that ``` `Walter` ``` --->
@@ -100,6 +103,7 @@ the result Text gonna be :
 
 <br>
 
+
 ### 5 - Links / Images :
 
 To use a clickable link or to display an image on your notes shared the same syntax, for the image you gonna need to add  `!` at the beginning of the syntax.  
@@ -121,7 +125,8 @@ The result is what you see here :
 <p align = "center">
 	<img src = "https://i.ibb.co/By5n51K/image.png" width = "200">
 </p>
-<br><br>
+<br>
+
 ### 6 - Blockquotes
 
 I think you notice some paragraphs on this article having some special color and background, like this message :  
