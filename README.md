@@ -19,7 +19,7 @@ Check the [official website](https://www.markdownguide.org/getting-started/) so 
 
 
 # <u>Let's start !</u>
-### 1 - Simple paragraph 
+## 1 - Simple paragraph 
 
 Add nothing to your text just start writing, but for the **new line** you need to create a space between the first paragraph and the second.
 
@@ -32,16 +32,15 @@ Also there is another way by adding two spaces after the first paragraph.
 
 <br>
 
-### 2 - Headings
+## 2 - Headings
 
 Using the ' # ' character, and whenever you use less hashtags the header gonna be bigger.
 The max of the header size is like the html header, if you pass over six hashtags the Markdown read it as a normal text.
 
 ![Heading](https://i.ibb.co/2cDNyrF/image.png)
-
 <br>
 
-### 3- **Bold**, *Italic* and ~~Strikethrough~~ Effect
+## 3- **Bold**, *Italic* and ~~Strikethrough~~ Effect
 
 
 >Note that on this part you can replace the \* Character with the  \_  character and everything work fine.
@@ -61,10 +60,9 @@ That's easy my friend! use that brain and find the solution by yourself am belie
 For the Strickthrough effect just use two `~` character : `~~Jesse~~` ---> ~~Jesse~~
 
 ![Text Effects](https://i.ibb.co/RcjtFjk/image.png)
-
 <br>
 
-### 4 - Code blocks 
+## 4 - Code blocks 
 
 For implementing a code area to your notes and you have just one line, word or even character, you just need to put it inside one ``` ` ``` Character, so that ``` `Walter` ``` --->
 `Walter`
@@ -100,11 +98,9 @@ the result Text gonna be :
 ```html
 <a href = "https://github.com/Zanana-med/">Welcome to my github</a>
 ```
-
 <br>
 
-
-### 5 - Links / Images :
+## 5 - Links / Images :
 
 To use a clickable link or to display an image on your notes shared the same syntax, for the image you gonna need to add  `!` at the beginning of the syntax.  
 
@@ -127,7 +123,7 @@ The result is what you see here :
 </p>
 <br>
 
-### 6 - Blockquotes
+## 6 - Blockquotes
 
 I think you notice some paragraphs on this article having some special color and background, like this message :  
 >Note That ...
@@ -139,6 +135,17 @@ So to use like this style you need just to start your paragraph with a ` > `
  >Note That ...  
 
 
+## 7 - Horizontal line
+
+Am also sure that on the example of the simple paragraph (the first image), you notice that i separate the paragraphs using an horizontal link and you ask yourself how this man did it.  
+Also am sure that you can notice that the line was created using the three `-`   
+
+Perfect!   
+Am gonna just add to your knowledge that you can use the same think with the three `*` or three `_` also.  
+
+So :   
+
+![Horizontal lines](https://i.ibb.co/RjDTyv4/image.png)
 
 ## Resources :
 #### Those are the resources of this article :
