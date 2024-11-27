@@ -19,12 +19,18 @@ Check the [official website](https://www.markdownguide.org/getting-started/) so 
 
 
 # <u>Let's start !</u>
-### 1 - Simple paragraph : 
+### 1 - Simple paragraph 
 
 Add nothing to your text just start writing, but for the **new line** you need to create a space between the first paragraph and the second.
-![fv](https://i.ibb.co/kmXFwZ6/image.png)
 
-### 2 - 
+
+![fv](https://camo.githubusercontent.com/c22684f57050229153ce197b6cf31b03c3122f3aa6a67fb6fd43b471a34ff267/68747470733a2f2f692e6962622e636f2f6b6d5846775a362f696d6167652e706e67)
+
+Also there is another way by adding two spaces after the first paragraph.
+
+![two spaces](https://i.ibb.co/PgSPPV0/Untitled-design.png)
+
+
 ## Resources :
 #### Those are the resources of this article :
 
