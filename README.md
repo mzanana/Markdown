@@ -38,6 +38,7 @@ Using the ' # ' character, and whenever you use less hashtags the header gonna b
 The max of the header size is like the html header, if you pass over six hashtags the Markdown read it as a normal text.
 
 ![Heading](https://i.ibb.co/2cDNyrF/image.png)
+
 <br>
 
 ## 3- **Bold**, *Italic* and ~~Strikethrough~~ Effect
@@ -60,6 +61,7 @@ That's easy my friend! use that brain and find the solution by yourself am belie
 For the Strickthrough effect just use two `~` character : `~~Jesse~~` ---> ~~Jesse~~
 
 ![Text Effects](https://i.ibb.co/RcjtFjk/image.png)
+
 <br>
 
 ## 4 - Code blocks 
@@ -98,6 +100,7 @@ the result Text gonna be :
 ```html
 <a href = "https://github.com/Zanana-med/">Welcome to my github</a>
 ```
+
 <br>
 
 ## 5 - Links / Images :
@@ -121,6 +124,7 @@ The result is what you see here :
 <p align = "center">
 	<img src = "https://i.ibb.co/By5n51K/image.png" width = "200">
 </p>
+
 <br>
 
 ## 6 - Blockquotes
@@ -134,6 +138,7 @@ So to use like this style you need just to start your paragraph with a ` > `
  So the result is the message :  
  >Note That ...  
 
+<br>
 
 ## 7 - Horizontal line
 
@@ -146,6 +151,11 @@ Am gonna just add to your knowledge that you can use the same think with the thr
 So :   
 
 ![Horizontal lines](https://i.ibb.co/RjDTyv4/image.png)
+
+<br>
+## 8 - Lists :
+
+
 
 ## Resources :
 #### Those are the resources of this article :
