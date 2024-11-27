@@ -156,21 +156,21 @@ So :
 
 ## 8 - Lists 
 
-1. Ordered List   
+1. **Ordered List**   
 
 The important is just the number followed by a dot and a space, its not matter that you number the list by the order 1, 2, 3...  
 
 ![Ordered List](https://i.ibb.co/235PhST/image.png)
 
 
-2. Unordered List   
+2. **Unordered List**   
 You gonna replace the numbers with one of those  characters (They do the same thing !)
 `*`, `-` or `+`   
 
 ![Unordered List](https://i.ibb.co/yYB7D6d/image.png)
 
 
-3. Nested List  
+3. **Nested List**  
 Use a `Tab` key or four `Spaces` to make a nested list  
 
 ![Nested List](https://i.ibb.co/pPtX0vR/image.png)
@@ -206,15 +206,22 @@ place the `:` where do you want the content to be. And yes you find the solution
 
 ## 10 - CheckLists 
 
-	
+We all know how to create a list, to make a Checklist now we just add the square brackets `[]`   
 
-## Resources :
-#### Those are the resources of this article :
 
-- [Youtube : Markdown Crash course](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=60s&ab_channel=WebDevSimplified)  
++ [ ] For the empty case just make one `space` inside the square brackets ` + [ ] UnChecked`
 
-- [Youtube : Markdown in Obsidian](https://www.youtube.com/watch?v=d8fXEhWy_rY&ab_channel=FromSergio)
++ [x] For the checked case fill it with a `x` or `X`, they do the same thing 
+`+ [X] Checked case`
 
-- [YouTube : Obsidian for tech docs](https://www.youtube.com/watch?v=cBzc5r-FNW0&ab_channel=ChristianLempa)
+![Checklist](https://i.ibb.co/XsKmqwb/image.png)
 
-||vsav||
+<br>
+
+<p align = "center">
+		<img src = "https://i.ibb.co/HFvxVgR/image.png" width = "500">
+</p>
+
+<br>
+
+![The end](https://i.ibb.co/LNKwr6P/image.png)
