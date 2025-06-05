@@ -238,10 +238,6 @@ There is some rules to follow to avoid any conflicts, here is step by step to cr
 
 
 
-
-
-
-
 <p align = "center">
 		<img src = "https://i.ibb.co/HFvxVgR/image.png" width = "500">
 </p>
