@@ -7,8 +7,8 @@
 
 ## Table of contents  
 
--[What is Markdown](#what-is-markdown)
--[Table of Contents](#table-of-content)
+-[What is Markdown](#what-is-markdown)   
+-[Table of Contents](#11---able-of-content)
 
 ## What is Markdown?
 
@@ -223,7 +223,7 @@ We all know how to create a list, to make a Checklist now we just add the square
 
 <br>
 
-## 11 -  Table of content
+## 11 - Table of content
 
 We can use links like this :  
 ```md
