@@ -8,7 +8,7 @@
 ## Table of contents  
 
 -[What is Markdown](#what-is-markdown)   
--[Table of Contents](#11---able-of-content)
+-[Table of Contents](#11---table-of-content)
 
 ## What is Markdown?
 
