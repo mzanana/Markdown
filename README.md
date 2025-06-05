@@ -225,13 +225,21 @@ We all know how to create a list, to make a Checklist now we just add the square
 
 ## 11 - Table of content
 
-We can use links like this :  
-```md
-## Table of Contents
+The table of contents is when at the top of the file you click at a link and goes to the section on the file wherever it is.  
 
-- [Introduction](#introduction)
-- [Second Header](#second-header)
-```
+There is some rules to follow to avoid any conflicts, here is step by step to create a table of content on markdown language :  
+
++ **1 - Convert to Lowercase :** All letters become lowercase, so `My Header` became `my header`;  
++ **2 - Replace punctuation :** Any special character is stripped. So for example `What's % & ' ( ) * + New?` -> `whats new`;  
++ **3 - Replace spaces with hyphens `-` :** All spaces become `-` so `my header title` become `my-header-title`;  
++ **4 - Keep hyphens and underscores :** `My-Title_2025` -> `my-title_2025`;  
++ **5 - Inline HTML is ignored :** The tags ate pare of the anchor, `<u>Start Here!</u>` -> `start-here`
++ **6 - Duplicate header :** If there is more than one header with the same context Github appends `-1`, `-2`, etc. `#my-header`, `#my-header-1`, `#my-header-2`, etc.
+
+
+
+
+
 
 
 <p align = "center">
