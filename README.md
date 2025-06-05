@@ -5,6 +5,11 @@
 </p>
 
 
+## Table of contents  
+
+-[What is Markdown](#what-is-markdown)
+-[Table of Contents](#table-of-content)
+
 ## What is Markdown?
 
 So the Markdown is a language to simplify your way to write your notes, Documents, your Readme file ... 
@@ -217,6 +222,17 @@ We all know how to create a list, to make a Checklist now we just add the square
 ![Checklist](https://i.ibb.co/XsKmqwb/image.png)
 
 <br>
+
+## 11 -  Table of content
+
+We can use links like this :  
+```md
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Second Header](#second-header)
+```
+
 
 <p align = "center">
 		<img src = "https://i.ibb.co/HFvxVgR/image.png" width = "500">
